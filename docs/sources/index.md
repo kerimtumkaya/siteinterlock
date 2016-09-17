@@ -15,7 +15,7 @@ The `siteinterlock` toolkit was developed in the [Protein Structure Analysis & D
 {Manuscript ID: Prot-00209-2016.R1}
 
 <div style="max-width:40%; inline-block; margin:0 auto;">
-<img src="images/siteinterlock.png" alt="SiteInterlock Logo">
+<img src="images/siteinterlock_small.png" alt="SiteInterlock Logo">
 </div>
 
 <br>
