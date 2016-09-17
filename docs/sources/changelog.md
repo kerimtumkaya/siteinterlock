@@ -7,8 +7,8 @@
 
 ##### Download Links
 
-- [Source code (zip)](https://github.com/psa-lab/siteinterlock/archive/1.0.0.zip)
-- [Source code (tar.gz)](https://github.com/psa-lab/siteinterlock/archive/1.0.0.tar.gz)
+- [Source code (zip)](https://github.com/psa-lab/siteinterlock/archive/v1.0.0.zip)
+- [Source code (tar.gz)](https://github.com/psa-lab/siteinterlock/archive/v1.0.0.tar.gz)
 
 ##### Notes
 
