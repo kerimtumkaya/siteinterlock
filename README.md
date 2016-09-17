@@ -12,7 +12,7 @@ docking poses based upon the hypothesis that interfacial rigidification
 of the protein-ligand interface is an important characteristic that can detect
 the native ligand binding mode.
 
-The `siteinterlock` package was developed by Sebastian Raschka in the
+The `siteinterlock` package was developed by [Sebastian Raschka](http://sebastianraschka.com) in the
 [Protein Structural Analysis & Design Laboratory](http://www.kuhnlab.bmb.msu.edu)
 at Michigan State University. For additional information on the theory
 behind the SiteInterlock project, please refer to the accompanying research publication:
