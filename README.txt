@@ -13,10 +13,10 @@ at Michigan State University. For additional information on the theory
 behind the SiteInterlock project, please refer to the accompanying research publication:
 
 - Raschka, Sebastian, Joseph Bemister-Buffington, and Leslie A. Kuhn 2016.
-"Detecting the Native Ligand Orientation by Interfacial Rigidity: SiteInterlock."
+"[Detecting the Native Ligand Orientation by Interfacial Rigidity: SiteInterlock.]
+(http://onlinelibrary.wiley.com/doi/10.1002/prot.25172/full)"
 *Proteins: Structure, Function, and Bioinformatics*
-XX (X). John Wiley & Sons : XXX-XX. doi:xx.xxxx/xxxxxxxx. {Manuscript ID: Prot-00209-2016.R1}
-
+XX (X). John Wiley & Sons : XXX-XX. doi:10.1002/prot.25172.
 # Installation
 
 The `siteinterlock` package is compatible with Python 2.7.x and Python 3.2 or newer;
