@@ -635,7 +635,6 @@ protein–ligand binding: The minimal rotation hypothesis.
 5. Jacobs, D. J., Rader, A. J., Kuhn, L. A., & Thorpe, M. F. (2001).
 Protein flexibility predictions using graph theory. *Proteins: Structure,
 Function, and Bioinformatics*, 44(2), 150-165.
-6. **Raschka, S., Bemister-Buffington, J., & Kuhn, L. A. (2016).
-"Detecting the Native Ligand Orientation by Interfacial
-Rigidity: SiteInterlock." *Proteins: Structure, Function, and Bioinformatics*,
-85 (10).**
+6. **Raschka, S., Bemister‐Buffington, J., & Kuhn, L. A. (2016).
+Detecting the native ligand orientation by interfacial rigidity: SiteInterlock.
+Proteins: Structure, Function, and Bioinformatics, 84(12), 1888-1901.**

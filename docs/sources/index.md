@@ -14,10 +14,9 @@ The `siteinterlock` package was developed by [Sebastian Raschka](http://sebastia
 at Michigan State University. For additional information on the theory
 behind the SiteInterlock project, please refer to the accompanying research publication:
 
-- Raschka, Sebastian, Joseph Bemister-Buffington, and Leslie A. Kuhn 2016.
-"[Detecting the Native Ligand Orientation by Interfacial Rigidity: SiteInterlock.](http://onlinelibrary.wiley.com/doi/10.1002/prot.25172/full)"
-*Proteins: Structure, Function, and Bioinformatics*
-XX (X). John Wiley & Sons : XXX-XX. doi:10.1002/prot.25172.
+- Raschka, Sebastian, Joseph Bemister‐Buffington, and Leslie A. Kuhn.
+["Detecting the native ligand orientation by interfacial rigidity: SiteInterlock."](http://onlinelibrary.wiley.com/doi/10.1002/prot.25172/full)
+*Proteins: Structure, Function, and Bioinformatics* 84.12 (2016): 1888-1901.
 
 <div style="max-width:40%; inline-block; margin:0 auto;">
 <img src="images/siteinterlock_small.png" alt="SiteInterlock Logo">
